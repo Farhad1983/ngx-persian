@@ -20,7 +20,7 @@
     "@angular/router": "~13.1.0",
     "ngx-persian": "2.0.1",
     "rxjs": "~7.4.0",
-    "tslib": "^2.3.0",
+    "tslib": "^2.4.1",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
